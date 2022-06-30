@@ -14,7 +14,7 @@ Use `alibaseq_and_align.sh` to parse blast files and pull out matching contigs t
 
 Use `CDHIT.sh` to cluster and eliminate redundant sequences or close in-paralogs.
 
-Use `UPhO.sh` to cluster into putative ortholog groups and eliminate paralogs updating blast files.
+Use `UPho.sh` to cluster into putative ortholog groups and eliminate paralogs updating blast files.
 
 Use `ref_genome_blast.sh` to find loci with paralogs that were missed by UPhO.
 
